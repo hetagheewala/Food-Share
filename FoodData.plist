@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>foods</key>
+	<array>
+		<dict>
+			<key>username</key>
+			<string>heta.gheewala@gmail.com</string>
+			<key>ContactPerson</key>
+			<string>Heta</string>
+			<key>ContactNo</key>
+			<string>2018758314</string>
+			<key>food</key>
+			<string>Pasta</string>
+			<key>image</key>
+			<string>Pasta.jpg</string>
+			<key>latitude</key>
+			<string>44.35</string>
+			<key>longitude</key>
+			<string>-68.216666666667</string>
+			<key>foodDescription</key>
+			<string>Italian pasta with red souce and vegetables</string>
+			<key>alergyAdvise</key>
+			<string></string>
+			<key>pickupTime</key>
+			<string>1:00 to 2:00 PM</string>
+			<key>street</key>
+			<string>55 Autumn Creek Lane</string>
+			<key>city</key>
+			<string>East Amherst</string>
+			<key>state</key>
+			<string>New York</string>
+			<key>zipcode</key>
+			<string>14051</string>
+		</dict>
+		<dict>
+			<key>username</key>
+			<string>abhishekkempanna@gmail.com</string>
+			<key>ContactPerson</key>
+			<string>Abhishek</string>
+			<key>ContactNo</key>
+			<string>2018758314</string>
+			<key>food</key>
+			<string>Chicken Wings</string>
+			<key>image</key>
+			<string>chickenwings.jpg</string>
+			<key>latitude</key>
+			<string>-14.25</string>
+			<key>longitude</key>
+			<string>-170.68333333333</string>
+			<key>foodDescription</key>
+			<string>Hot and Spicy Chicken Wings</string>
+			<key>alergyAdvise</key>
+			<string></string>
+			<key>pickupTime</key>
+			<string>10:00 to 11:00 AM</string>
+			<key>street</key>
+			<string>220 John Street</string>
+			<key>city</key>
+			<string>Rochester</string>
+			<key>state</key>
+			<string>New York</string>
+			<key>zipcode</key>
+			<string>14623</string>
+		</dict>
+		<dict>
+			<key>username</key>
+			<string>mike@gmail.com</string>
+			<key>ContactPerson</key>
+			<string>Abhishek</string>
+			<key>ContactNo</key>
+			<string>2018758314</string>
+			<key>food</key>
+			<string>Buffalo Chicken Pizza</string>
+			<key>image</key>
+			<string>chickenpizza.jpg</string>
+			<key>latitude</key>
+			<string>38.683333333333</string>
+			<key>longitude</key>
+			<string>-109.56666666667</string>
+			<key>foodDescription</key>
+			<string>Freshly made buffalo chicken pizza</string>
+			<key>alergyAdvise</key>
+			<string></string>
+			<key>pickupTime</key>
+			<string>1:00 to 2:00 PM</string>
+			<key>street</key>
+			<string>56 Rose Creek Lane</string>
+			<key>city</key>
+			<string>Rochester</string>
+			<key>state</key>
+			<string>New York</string>
+			<key>zipcode</key>
+			<string>14624</string>
+		</dict>
+		<dict>
+			<key>username</key>
+			<string>steven@gmail.com</string>
+			<key>ContactPerson</key>
+			<string>Abhishek</string>
+			<key>ContactNo</key>
+			<string>2018758314</string>
+			<key>food</key>
+			<string>Burrito</string>
+			<key>image</key>
+			<string>burrito.png</string>
+			<key>latitude</key>
+			<string>43.75</string>
+			<key>longitude</key>
+			<string>-102.5</string>
+			<key>foodDescription</key>
+			<string>Mexican burrito with pork toppings</string>
+			<key>alergyAdvise</key>
+			<string></string>
+			<key>pickupTime</key>
+			<string>1:00 to 2:00 PM</string>
+			<key>street</key>
+			<string>55 Victor</string>
+			<key>city</key>
+			<string></string>
+			<key>state</key>
+			<string>New York</string>
+			<key>zipcode</key>
+			<string>14051</string>
+		</dict>
+		<dict>
+			<key>username</key>
+			<string>richard@gmail.com</string>
+			<key>ContactPerson</key>
+			<string>Abhishek</string>
+			<key>ContactNo</key>
+			<string>2018758314</string>
+			<key>food</key>
+			<string>Jerk Chicken</string>
+			<key>image</key>
+			<string>jerkchicken.jpg</string>
+			<key>latitude</key>
+			<string>29.25</string>
+			<key>longitude</key>
+			<string>-103.25</string>
+			<key>foodDescription</key>
+			<string>Carribean style jerk chicken available</string>
+			<key>alergyAdvise</key>
+			<string></string>
+			<key>pickupTime</key>
+			<string>1:00 to 2:00 PM</string>
+			<key>street</key>
+			<string>301 street Monroe</string>
+			<key>city</key>
+			<string>Rochester</string>
+			<key>state</key>
+			<string>New York</string>
+			<key>zipcode</key>
+			<string>14051</string>
+		</dict>
+		<dict>
+			<key>username</key>
+			<string>david@gmail.com</string>
+			<key>ContactPerson</key>
+			<string>Abhishek</string>
+			<key>ContactNo</key>
+			<string>2018758314</string>
+			<key>food</key>
+			<string>Shezwan Noodles</string>
+			<key>image</key>
+			<string>noodles.jpg</string>
+			<key>latitude</key>
+			<string>25.65</string>
+			<key>longitude</key>
+			<string>-80.083333333333</string>
+			<key>foodDescription</key>
+			<string>Enjoy the best made noodles in the town</string>
+			<key>alergyAdvise</key>
+			<string></string>
+			<key>pickupTime</key>
+			<string>1:00 to 2:00 PM</string>
+			<key>street</key>
+			<string>55 brighton</string>
+			<key>city</key>
+			<string>Rochester</string>
+			<key>state</key>
+			<string>New York</string>
+			<key>zipcode</key>
+			<string>14078</string>
+		</dict>
+		<dict>
+			<key>username</key>
+			<string>martin@gmail.com</string>
+			<key>ContactPerson</key>
+			<string>Abhishek</string>
+			<key>ContactNo</key>
+			<string>2018758314</string>
+			<key>food</key>
+			<string>Fried rice</string>
+			<key>image</key>
+			<string>friedrice.jpg</string>
+			<key>latitude</key>
+			<string>38.566666666667</string>
+			<key>longitude</key>
+			<string>-107.71666666667</string>
+			<key>foodDescription</key>
+			<string>Fried rice available for pickup</string>
+			<key>alergyAdvise</key>
+			<string></string>
+			<key>pickupTime</key>
+			<string>1:00 to 2:00 PM</string>
+			<key>street</key>
+			<string>55 Highlandpark</string>
+			<key>city</key>
+			<string>Rochester</string>
+			<key>state</key>
+			<string>New York</string>
+			<key>zipcode</key>
+			<string>14051</string>
+		</dict>
+		<dict>
+			<key>username</key>
+			<string>easton@gmail.com</string>
+			<key>ContactPerson</key>
+			<string>Abhishek</string>
+			<key>ContactNo</key>
+			<string>2018758314</string>
+			<key>food</key>
+			<string>baked beans</string>
+			<key>image</key>
+			<string>bakedbeans.jpg</string>
+			<key>latitude</key>
+			<string>37.566666666667</string>
+			<key>longitude</key>
+			<string>-112.18333333333</string>
+			<key>foodDescription</key>
+			<string>Ten boxes of prepared baked beans available</string>
+			<key>alergyAdvise</key>
+			<string></string>
+			<key>pickupTime</key>
+			<string>1:00 to 2:00 PM</string>
+			<key>street</key>
+			<string>55 Erie railroad depot</string>
+			<key>city</key>
+			<string>Rochester</string>
+			<key>state</key>
+			<string>New York</string>
+			<key>zipcode</key>
+			<string>14051</string>
+		</dict>
+		<dict>
+			<key>username</key>
+			<string>reckson@gmail.com</string>
+			<key>ContactPerson</key>
+			<string>Abhishek</string>
+			<key>ContactNo</key>
+			<string>2018758314</string>
+			<key>food</key>
+			<string>Mushroom Fry</string>
+			<key>image</key>
+			<string>mushroomfry.jpg</string>
+			<key>latitude</key>
+			<string>38.2</string>
+			<key>longitude</key>
+			<string>-109.93333333333</string>
+			<key>foodDescription</key>
+			<string>Home made mushroom fry available for pickup</string>
+			<key>alergyAdvise</key>
+			<string></string>
+			<key>pickupTime</key>
+			<string>1:00 to 2:00 PM</string>
+			<key>street</key>
+			<string>55 fairport</string>
+			<key>city</key>
+			<string>Rochester</string>
+			<key>state</key>
+			<string>New York</string>
+			<key>zipcode</key>
+			<string>14051</string>
+		</dict>
+		<dict>
+			<key>username</key>
+			<string>john@gmail.com</string>
+			<key>ContactPerson</key>
+			<string>Abhishek</string>
+			<key>ContactNo</key>
+			<string>2018758314</string>
+			<key>food</key>
+			<string>Cookies</string>
+			<key>image</key>
+			<string>cookies.jpg</string>
+			<key>latitude</key>
+			<string>38.2</string>
+			<key>longitude</key>
+			<string>-111.16666666667</string>
+			<key>foodDescription</key>
+			<string>20 packets of cookies available</string>
+			<key>alergyAdvise</key>
+			<string></string>
+			<key>pickupTime</key>
+			<string>1:00 to 2:00 PM</string>
+			<key>street</key>
+			<string>55 Madison St</string>
+			<key>city</key>
+			<string>Rochester</string>
+			<key>state</key>
+			<string>New York</string>
+			<key>zipcode</key>
+			<string>14072</string>
+		</dict>
+	</array>
+</dict>
+</plist>
